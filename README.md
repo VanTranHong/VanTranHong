@@ -7,7 +7,7 @@ I'm on a journey to master **AI Agents** while researching the security & privac
 ---
 
 ### 🤖 Current Side Project — AI Agent
-> *Link coming soon...*
+- 📧 [Email Handler](https://github.com/VanTranHong/EmailHandler) — An AI-powered email agent
 
 ---
 
