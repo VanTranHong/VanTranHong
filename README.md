@@ -14,5 +14,5 @@ I'm on a journey to master **AI Agents** while researching the security & privac
 
 ---
 
-### 🕸️ Web Scraping Skills
-### 🧠 ML/AI Code from Scratch
+### 🕸️ Web Scraping Skills Blog
+### 🧠 ML/AI Code/Concepts Blog
