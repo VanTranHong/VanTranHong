@@ -7,10 +7,12 @@ I'm on a journey to master **AI Agents** while researching the security & privac
 ### 🤖 Current Side Project — AI Agent
 - 📧 [Email Handler](https://github.com/VanTranHong/EmailHandler) — A Gmail automation agent that can fetch, analyze, and draft replies to today's emails
 - 📚 [Research Assistant](https://github.com/VanTranHong/RelatedWork_Researcher) — Search, download, and chat with academic papers using hybrid RAG and Claude AI — all from your browser.
-- 🔍 Code Reviewer
-- 🌐 Web Agent
+
+- 🌐 [Web Agent](https://github.com/VanTranHong/Web-Agent) A web agent that automates privacy opt-out requests on any website using Claude AI and Playwright browser automation, with a 
+  live streaming UI.  
 - 📣 Marketing Content Creator
 - 🈶 Chinese Learning Buddy
+- 🔍 Code Reviewer
 
 ---
 
