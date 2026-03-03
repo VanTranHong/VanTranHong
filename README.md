@@ -18,7 +18,7 @@ I'm on a journey to master **AI Agents** while researching the security & privac
 
 ### 🤝 Multi-Agent
 
-- 🏛️ [Congress Debate Simulator](https://github.com/VanTranHong/Congress-Debate-Simulator) — A multi-agent system where AI agents simulate congressional debates, with each agent representing different legislators arguing policy positions. Agents can search the web in real time to retrieve the most up-to-date information on any topic before making their arguments.
+- 🏛️ [Congress Debate Simulator](https://github.com/VanTranHong/Congress-Debate-Simulator) — A multi-agent system where AI agents simulate congressional debates, with each agent representing different key figures from democratic and republican parties arguing policy positions. Agents can search the web in real time to retrieve the most up-to-date information on any topic before making their arguments.
 
 ---
 
